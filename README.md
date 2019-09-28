@@ -1,4 +1,4 @@
-# How to download Open JDK 13 for MacOS and run a "hello world" program
+# How to download Open JDK 13 for MacOS and run a "hello world" program in Java
 
 I'm not a Java developer but I was given a utility and needed fix a bug in it.
 Here's how to get Open JDK working on your Mac in just a few minutes, because

@@ -1,8 +1,10 @@
 # How to download Open JDK 13 for MacOS
 
 Oracle changed its license terms for Java in April 2019 and it seems that
-restrictions on commercial use have increased. I'm not sure. So I needed to download
-[OpenJDK 13](https://openjdk.java.net) on my MacOS machine. The Oracle  instructions
+restrictions on commercial use have increased. It seems like the standard
+Java distribution requires payment now if you're a developer. I'm not totally 
+sure, but I decided to download and insall
+[OpenJDK 13](https://openjdk.java.net) on my MacOS machine. The Oracle instructions
 don't seem to cover MacOS, so here's my method.
 
 ## Go to openjdk.java.net and download the MacOS version

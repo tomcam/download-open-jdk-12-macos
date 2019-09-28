@@ -1,16 +1,17 @@
-# How to download Open JDK 13 for MacOS
+# How to download Open JDK 13 for MacOS and run a "hello world" program
+
+I'm not a Java developer but I was given a utility and needed fix a bug in it.
+Here's how to get Open JDK working on your Mac in just a few minutes, because
+Java SE may no longer be free for you.
 
 Oracle [changed its license terms for Java](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
 in April 2019 and it seems that
 restrictions on commercial use have increased. It seems like the standard
-Java distribution requires payment now if you're a developer. I'm not totally 
+Java distribution may require payment now if you're a developer. I'm not totally 
 sure, but I decided to download and install
 [OpenJDK 13](https://openjdk.java.net), which is still free,
 on my MacOS machine. The Oracle instructions
 don't seem to cover MacOS, so here's my method.
-
-I only need to run Java programs. I'm not a Java developer so let me know if anything
-here is wrong.
 
 ## Go to openjdk.java.net and download the MacOS version
 

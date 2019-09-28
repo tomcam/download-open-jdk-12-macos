@@ -121,3 +121,17 @@ just type `exit` at the prompt.
 ```
 $ exit
 ```
+
+## Other things I've learned
+
+* To learn where JAVA_HOME is:
+
+```bash
+$ /usr/libexec/java_home
+```
+
+Result will look something like this:
+
+```
+/Library/Java/JavaVirtualMachines/jdk-13.jdk/Contents/Home
+```

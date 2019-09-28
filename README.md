@@ -115,7 +115,8 @@ hello, world.
 
 ## Exit terminal
 
-Now feel free to close the the Terminal or type `exit` and the prompt and press Enter.
+Now feel free to close the the Terminal window or 
+just type `exit` at the prompt.
 
 ```
 $ exit

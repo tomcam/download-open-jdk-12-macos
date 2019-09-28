@@ -1,4 +1,4 @@
-# How to download Open Jdk 13 for MacOS
+# How to download Open JDK 13 for MacOS
 
 Oracle changed its license terms for Java in April 2019 and it seems that
 restrictions on commercial use have increased. I'm not sure. So I needed to download

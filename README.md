@@ -26,7 +26,7 @@ I assume this leaves the file `openjdk-13_osx-x64_bin.tar` in your `~/Downloads`
 
 It gets extracted into a directory named `jdk-13.jdk`.
 
-## Move it to /Library/Java/JavaVirtualMachines/
+## Move the directory to /Library/Java/JavaVirtualMachines/
 
 Drop into your terminal:
 
@@ -40,8 +40,8 @@ The terminal prompt appears.
 $ cd ~/Downloads
 ```
 
-* And move it to the `/Library/Java/JavaVirtualMachines/` directory. 
-You'll be asked for your system password.
+* And move the newly created `jdk-13.jdk` directory to the `/Library/Java/JavaVirtualMachines/` directory. 
+You'll be asked for your system password:
 
 ```bash
 $ sudo mv jdk-13.jdk /Library/Java/JavaVirtualMachines/
